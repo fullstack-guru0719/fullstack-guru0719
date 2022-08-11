@@ -47,6 +47,5 @@
 ![fullstack-guru0719's GitHub stats](https://github-readme-stats.vercel.app/api?username=fullstack-guru0719&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fullstack-guru0719&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   [![fullstack-guru0719's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fullstack-guru0719&theme=dark&background=000000)](https://git.io/streak-stats)
-![Snake animation](https://github.com/fullstack-guru0719/fullstack-guru0719/blob/output/github-contribution-grid-snake.svg)
 
 
